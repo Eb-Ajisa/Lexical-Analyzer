@@ -4,8 +4,7 @@
 ### Python 3.13.1
 ### Visual Studios Code
 
-#### Compile/run with
-python pr1.py
+#### Compile/run with: "python pr1.py"
 
 *Then insert absolute file path so long as the file path is within the directory*
 Example: C:/Users/ebby2/Webstack practice/Lex/hello.txt
